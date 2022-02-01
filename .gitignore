@@ -1,0 +1,28 @@
+*~
+
+#======================================
+# Visual Studio / MonoDevelop generated
+#======================================
+ExportedObj/
+obj
+.vs
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+#============
+# MacOS generated
+#============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
